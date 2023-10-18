@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE:
-  Dec 07, 2023 <br> <a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation">wedding invitation</a></h1>
+  DEC 07, 2023 <br> <a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation">Wedding Invitation</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
