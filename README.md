@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
+<p align="center"><a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: Dec 07, 2023 <br> <a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation">wedding invitation</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
@@ -8,21 +8,15 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **7th December at [Gayatri Temple](https://maps.app.goo.gl/JWztUjAr8jTFpr4x5), Gayatri temple, Junagadh**.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- Find [venue](https://maps.app.goo.gl/JWztUjAr8jTFpr4x5) on Google map
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
-
-- Visit the [website](https://sonali.netlify.app/) for more details
-
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+- Visit the [website](https://shubhhhwarrior.gitHub.io/Wedding-Invitation) for more details
 
 ```js
 
@@ -76,8 +70,8 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 [![Stargazers repo roster for @vinitshahdeo/Wedding-Invitation](https://reporoster.com/stars/vinitshahdeo/Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation/stargazers)
 
-Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
+Tag me to share your wedding story on Twitter([@shubhhh_x3](https://instagram.com/shubhhh_x3)) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
-**Vinit Shahdeo**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+**Shubham**<i></sup><br>
+[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://instagram.com/shubhhh_x3)
