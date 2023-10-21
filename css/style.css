@@ -359,8 +359,13 @@ img {
 }
 
 @media (max-width: 900px) {
-  img {
-    max-width: 70%;
+  .top-right-decoration,
+  .top-left-decoration {
+    max-width: 30%;
+  }
+
+  #image {
+    max-width: 90%;
   }
 }
 
