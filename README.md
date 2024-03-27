@@ -1,9 +1,7 @@
 
 <p align="center"><a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE:
-  DEC 07, 2023 <br> <a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation">Wedding Invitation</a></h1>
-
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
+<h1 align="center"><a href="isha-weds-bhargav.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE:
+  DEC 07, 2023 <br> <br> <a href="https://shubhhhwarrior.gitHub.io/Wedding-Invitation">Wedding Invitation</a></h1>
 
 ## Wedding Invitation :ring:
 
@@ -17,29 +15,8 @@ inviting you and your family to elder sister's wedding to be held on **7th Decem
 
 - Find [venue](https://maps.app.goo.gl/JWztUjAr8jTFpr4x5) on Google map
 
-- Visit the [website](https://shubhhhwarrior.gitHub.io/Wedding-Invitation) for more details
+- Visit the [website](sha-weds-bhargav.netlify.app/) for more details
 
-```js
-
-const newCouple = 'Sonali & Gagan';
-
-// Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
-
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
-
-(function() {
-    newCouple.willTieKnot(weddingDate);
-
-    // your presence is requested
-    (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
-    );
-})();
-
-
-```
 
 ## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
 > Feel free to use this template to build your wedding website!
@@ -61,18 +38,7 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 </div>
 ```
 
-> <sup>Despite so many new Bollywood and English song options, I prefered to use two-decade-old song, **[Din Shagna Da](https://youtu.be/X0MDALpV29s)**! Ever attended a North Indian Wedding? As soon as the DJ plays [Din Shagna Da](https://youtu.be/Mj4eK5YViCs) song, it means that the much-awaited moment is here and the bride is all set to put her first foot forward to the wedding venue under a breathtaking phoolon ki chaadar. Let's keep the sky-high status of this song untouched! When the website is backed up with a soul-stirring track, the feeling becomes absolutely surreal. **Choose a heart-touching track!** :musical_note: :heart: </sup>
-
-## शुभ विवाह 🎉  ~ Hindi version of this website 👇
-
-[![Wedding Website](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=wedding-website)](https://github.com/vinitshahdeo/wedding-website/)
-
-### Show your support by leaving a star! :hugs:
-
-[![Stargazers repo roster for @vinitshahdeo/Wedding-Invitation](https://reporoster.com/stars/vinitshahdeo/Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation/stargazers)
-
-Tag me to share your wedding story on Twitter([@shubhhh_x3](https://instagram.com/shubhhh_x3)) :yellow_heart:
+Tag me to share your wedding story on Instagram[@shubhhh_x3](https://instagram.com/shubhhh_x3)) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
 **Shubham**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://instagram.com/shubhhh_x3)
